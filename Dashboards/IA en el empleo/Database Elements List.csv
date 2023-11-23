@@ -1,0 +1,63 @@
+﻿Table Name,Column Name,Data Type
+Clusters,cluster_id,float
+Clusters,cluster_name,nvarchar
+Clusters,cluster_id1,float
+Company Sizes,company_size_id,float
+Company Sizes,company_size_code,nvarchar
+Company Sizes,company_size_name,nvarchar
+Continents,continent_id,float
+Continents,continent_name,nvarchar
+Countries,country_id,float
+Countries,country_code,nvarchar
+Countries,country_name,nvarchar
+Countries,region_id,float
+Currencies,currency_id,float
+Currencies,currency_code,nvarchar
+Currencies,currency_name,nvarchar
+DataScience Salaries,id,float
+DataScience Salaries,work_year_id,float
+DataScience Salaries,region_id,float
+DataScience Salaries,company_location,nvarchar
+DataScience Salaries,country_id,float
+DataScience Salaries,company_size_id,float
+DataScience Salaries,role_id,float
+DataScience Salaries,experience_level_id,float
+DataScience Salaries,employment_type_id,float
+DataScience Salaries,employee_residence,nvarchar
+DataScience Salaries,salary_amount,float
+DataScience Salaries,salary_currency,nvarchar
+DataScience Salaries,currency_id,float
+DataScience Salaries,salary_in_usd,float
+DataScience Salaries,remote_ratio,float
+Employment Type,employment_type_id,float
+Employment Type,employment_type_code,nvarchar
+Employment Type,employment_type_name,nvarchar
+Experience Levels,experience_level_id,float
+Experience Levels,experience_level_code,nvarchar
+Experience Levels,experience_name,nvarchar
+Global AI Index,id,float
+Global AI Index,country_code,nvarchar
+Global AI Index,region_id,float
+Global AI Index,continent_id,float
+Global AI Index,income_group_id,float
+Global AI Index,political_regime_id,float
+Global AI Index,cluster_id,float
+Global AI Index,talent,float
+Global AI Index,infrastructure,float
+Global AI Index,operating_environment,float
+Global AI Index,research,float
+Global AI Index,development,float
+Global AI Index,government_strategy,float
+Global AI Index,commercial,float
+Global AI Index,total_score,float
+Income Groups,income_group_id,float
+Income Groups,income_group_name,nvarchar
+Political Regimes,political_regime_id,float
+Political Regimes,political_regime_name,nvarchar
+Regions,region_id,float
+Regions,region_name,nvarchar
+Regions,continent_id,float
+Roles,role_id,float
+Roles,role_title,nvarchar
+Work Years,work_year_id,float
+Work Years,work_year,float
